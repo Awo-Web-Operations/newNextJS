@@ -7,6 +7,8 @@ declare module 'styled-components' {
       secondary: string
       white: string
       gray: string
+      lighGray: string
+      orange: string
     };
 
     borderRadius: string;
